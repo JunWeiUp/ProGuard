@@ -1,3 +1,5 @@
+[来自：https://github.com/JunWeiUp/ProGuard](https://github.com/JunWeiUp/ProGuard)
+
 ![](http://upload-images.jianshu.io/upload_images/1507947-8b096dcfa5f384ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/100)
 
 好久我这个小屌丝儿没有写博客了，今天又重新开了一个简书，开始重操旧业啦！了解Android的人都知道应用的代码是用java编写的，轻轻松松就可以反编译源码。开发者一般会不约而同的想到使用 ProGuard，对这就一般意义上的混淆，最近在研究混淆的问题，非常纳闷混淆的真正原因，（一看到这里有的小伙伴儿就要开喷了，键盘侠们别激动等我把话说完，再喷我^O^），Android做为前端，大部分地方是用来与用户进行数据互动。（何为数据互动就是把后台的数据用漂亮的界面显示在前端）这些代码不存在安全性可言，那混淆的真正作用是什么，
